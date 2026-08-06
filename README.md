@@ -1,16 +1,12 @@
-mylesr=tech.local (Domain Root)
-│
-├── FILESERVER01 (Windows Server 2025 DC / DNS / File Server)
-│   └── Shared Folder: C:\CompanyData (\\FILESERVER01\CompanyData)
-│       ├── HR
-│       ├── IT
-│       ├── Finance
-│       └── Public
-│
-└── USA (Top-Level OU)
-    ├── Users (Sub-OU)
-    │   ├── IT (Sub-OU)
-    │   ├── HR (Sub-OU)
-    │   └── Finance (Sub-OU)
-    └── Computers (Sub-OU)
-        └── CLIENT01 (Windows 11 Pro Endpoint)
+# Active Directory & File Services Homelab
+
+The objective of this project was to deploy a fully functional Active Directory Domain Services (AD DS) environment, join a Windows 11 client machine to the domain, configure structured Organizational Units (OUs) and Role-Based Access Control (RBAC) groups, and establish a centralized File Server utilizing both Share and NTFS permission hierarchies.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- 
+  ## Installation
+
+  Instructions on how to install click on the link.
