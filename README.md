@@ -1,4 +1,4 @@
-eastcharmer.local (Domain Root)
+mylesr=tech.local (Domain Root)
 │
 ├── FILESERVER01 (Windows Server 2025 DC / DNS / File Server)
 │   └── Shared Folder: C:\CompanyData (\\FILESERVER01\CompanyData)
