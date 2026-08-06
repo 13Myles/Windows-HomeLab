@@ -118,7 +118,7 @@ ipconfig /all
 
 ### Root Domain
 
-* **eastcharmer.local**
+* **mylestech.local**
 
 ### Configuration
 
@@ -134,7 +134,7 @@ ipconfig /all
 ## Organizational Unit Structure
 
 ```
-eastcharmer.local
+mylestech.local
 
 └── USA
     ├── Users
@@ -231,7 +231,7 @@ ping FILESERVER01
   * CLIENT01
 * Joined:
 
-  * eastcharmer.local
+  * mylestech.local
 * Authenticated using Domain Admin credentials.
 * Restarted the workstation.
 * Logged in using domain user credentials.
